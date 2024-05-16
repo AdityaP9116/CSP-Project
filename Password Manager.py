@@ -114,18 +114,3 @@ print('How would you like to manage your passwords')
     
 
 
-
-'''
-print('key: ' + str(key))
-# Message to be encrypted
-message = "Hello, World!"
-
-# Encrypt the message
-encrypted_message = encrypt(message, key)
-print("Encrypted message:", encrypted_message)
-
-# Decrypt the message
-decrypted_message = decrypt(encrypted_message, key)
-print("Decrypted message:", decrypted_message)
-
-'''
